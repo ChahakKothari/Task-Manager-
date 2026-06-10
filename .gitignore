@@ -1,0 +1,12 @@
+node_modules
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+backend/node_modules
+frontend/node_modules
+backend/uploads/
+frontend/dist/
+dist
+build
+.vscode/*.log
